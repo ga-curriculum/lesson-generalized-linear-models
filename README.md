@@ -22,7 +22,8 @@
 *After this lesson, students will be able to:*
 1. **Identify** the three components to every generalized linear model.
 2. **Describe** situations for using generalized linear models.
-3. **Implement** 
+3. **Implement** logistic, Poisson, and Gamma regression.
+4. **Interpret** the coefficients from the aforementioned models.
 
 ---
 
@@ -40,12 +41,12 @@
 
 > **Total Time: 90 mins**
 
-I. **Generalized Linear Models** (30 minutes total)
+I. **Generalized Linear Models** (45 minutes total)
 - Introduction
 - Linear/Link/Random Components
 
 
-II. **GLM Practice in `statsmodels`** (60 minutes total)
+II. **GLM Practice in `statsmodels`** (45 minutes total)
 - Logistic Regression
 	- IRLS
 	- Deviance
