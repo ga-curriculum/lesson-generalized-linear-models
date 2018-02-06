@@ -13,7 +13,7 @@
 | Lesson | GLM iPython Notebook | [Link](./glm-notes.ipynb)|
 | Lab | GLM Lab | [Link](https://git.generalassemb.ly/DSI-EAST-2/4.03-glm-lab) |
 
-> **Dataset description:** 
+> **Dataset description:** UCLA IDRE, 1945 Hurn Clotting Data, Fish Data
 
 ---
 
