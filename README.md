@@ -22,7 +22,9 @@
 *After this lesson, students will be able to:*
 1. **Identify** the three components to every generalized linear model.
 2. **Describe** situations for using generalized linear models.
-3. **Implement** 
+3. **Implement** logistic regression, Poisson regression, and Gamma regression.
+4. **Summarize** iteratively reweighted least squares.
+5. **Compare** two models using deviance.
 
 ---
 
